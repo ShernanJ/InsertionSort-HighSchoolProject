@@ -8,4 +8,4 @@
   This application was built in high school to demonstrate my skills as a Java developer and implement an insertion sort algortihm.
 </p>
 
-<h3 align="center">⚠️ <u>This project does not demonstrate my current skills as this was created over 3 years ago!</u> ⚠️</h3>
+<h4 align="center">⚠️ This project does not demonstrate my current skills as this was created over 3 years ago! ⚠️</h4>
